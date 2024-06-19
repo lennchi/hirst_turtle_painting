@@ -4,7 +4,7 @@ import colorgram
 
 t.colormode(255)
 screen = t.Screen()
-screen.title("Hirsh Dot Painting")
+screen.title("Hirst Dot Painting")
 
 tim = t.Turtle()
 tim.speed(0)
